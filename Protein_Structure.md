@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Computational Protein Structure
-permalink: /Computational_Protein_Structure/
+title: Protein Structure
+permalink: /Protein_Structure/
 ---
 
 # COMPUTATIONAL PROTEIN STRUCTURE
