@@ -9,7 +9,7 @@ layout: page
 * [Genomics]({{site.baseurl}}/Genomics/)
 * [Clinical Informatics]({{site.baseurl}}/Clinical_Informatics/)
 * [Pharmacogenomics and Chemoinformatics]({{site.baseurl}}/Pharmacogenomics_and_Chemoinformatics/)
-* [Computational Protein Structure]({{site.baseurl}}/Computational_Protein_Structure/)
+* [Protein Structure]({{site.baseurl}}/Protein_Structure/)
 * [Proteomics and Metabolomics]({{site.baseurl}}/Proteomics_and_Metabolomics/)
 * [Medical Images and Signal(ing)]({{site.baseurl}}/Medical_Images_and_Signal/)
 * [Single Cell]({{site.baseurl}}/Single_Cell/)
