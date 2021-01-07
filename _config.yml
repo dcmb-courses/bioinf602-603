@@ -4,8 +4,8 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
    A course at the University of Michigan introducing students
     to journal articles and presentations in Bioinformatics.
-baseurl: "https://dcmb-courses.github.io/bioinf602-603-fall2020" # the subpath of your site, e.g. /blog/
-url: "https://dcmb-courses.github.io/bioinf602-603-fall2020" 
+baseurl: "https://dcmb-courses.github.io/bioinf602-603" # the subpath of your site, e.g. /blog/
+url: "https://dcmb-courses.github.io/bioinf602-603" 
 twitter_username: 
 github_username: 
 
