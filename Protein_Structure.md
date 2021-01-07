@@ -4,7 +4,7 @@ title: Protein Structure
 permalink: /Protein_Structure/
 ---
 
-# COMPUTATIONAL PROTEIN STRUCTURE
+# PROTEIN STRUCTURE
 
 1. Gelly, Jean-Christophe, et al. iPBA: a tool for protein structure comparison using sequence alignment strategies. Nucleic Acids Research 39.suppl_2 (2011): W18-W23.
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3125758/](www.ncbi.nlm.nih.gov/pmc/articles/PMC3125758/)
