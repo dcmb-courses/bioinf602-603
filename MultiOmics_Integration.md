@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-omics Integration
-permalink: /Multi-omics Integration/
+permalink: /MultiOmics_Integration/
 ---
 
 # Multi-omics Integration
