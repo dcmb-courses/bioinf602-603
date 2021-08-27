@@ -22,15 +22,6 @@ permalink: /MultiOmics_Integration/
 
    >Advances in high-throughput technologies allow for measurements of many types of omics data, yet the meaningful integration of several different data types remains a significant challenge. Another important and difficult problem is the discovery of molecular disease subtypes characterized by relevant clinical differences, such as survival. Here we present a novel approach, called perturbation clustering for data integration and disease subtyping (PINS), which is able to address both challenges. The framework has been validated on thousands of cancer samples, using gene expression, DNA methylation, noncoding microRNA, and copy number variation data available from the Gene Expression Omnibus, the Broad Institute, The Cancer Genome Atlas (TCGA), and the European Genome-Phenome Archive. The approach is sufficiently general to replace existing unsupervised clustering approaches outside the scope of bio-medical research, with the additional ability to integrate multiple types of data.
 
-1. Tapio Pahikkala. Antti Airola.  RLScore: Regularized Least-Squares Learners. Journal of Machine Learning Research 17 (2016) 1-5. http://www.jmlr.org/papers/volume17/16-470/16-470.pdf.
-
-      >RLScore is a Python open source module for kernel based machine learning. The library
-provides implementations of several regularized least-squares (RLS) type of learners. RLS
-methods for regression and classification, ranking, greedy feature selection, multi-task and
-zero-shot learning, and unsupervised classification are included. Matrix algebra based
-computational short-cuts are used to ensure efficiency of both training and cross-validation.
-A simple API and extensive tutorials allow for easy use of RLScore.
-
 1. Hoadley K, Yau C, Hinoue T, ... Laird PW.  Cell-of-origin patterns dominate the molecular classifications of 10,000 Tumors from 33 types of cancer.  Cell, 2018 Apr; 713(2), p291-304. https://www.ncbi.nlm.nih.gov/pubmed/29625048  
 
    >We conducted comprehensive integrative molecular analyses of the complete set of tumors in The Cancer Genome Atlas (TCGA), consisting of approximately 10,000 specimens and representing 33 types of cancer. We performed molecular clustering using data on chromosome-arm-level aneuploidy, DNA hypermethylation, mRNA, and miRNA expression levels and reverse-phase protein arrays, of which all, except for aneuploidy, revealed clustering primarily organized by histology, tissue type, or anatomic origin. The influence of cell type was evident in DNA-methylation-based clustering, even after excluding sites with known preexisting tissue-type-specific methylation. Integrative clustering further emphasized the dominant role of cell-of-origin patterns. Molecular similarities among histologically or anatomically related cancer types provide a basis for focused pan-cancer analyses, such as pan-gastrointestinal, pan-gynecological, pan-kidney, and pan-squamous cancers, and those related by stemness features, which in turn may inform strategies for future therapeutic development.
