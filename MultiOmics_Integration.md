@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Genomics
-permalink: /Genomics/
+title: Multi-omics Integration
+permalink: /Multi-omics Integration/
 ---
 
-# Genomics
+# Multi-omics Integration
 
 1. Francine E. Garrett-Bakelman, Manjula Darshi3, Stefan J. Green et al. The NASA Twins Study: A multidimensional analysis of a year-long human spaceflight. Science  12 Apr 2019: Vol. 364, Issue 6436, eaau8650 DOI: 10.1126/science.aau8650. 
    
