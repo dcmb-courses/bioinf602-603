@@ -7,6 +7,7 @@ layout: page
 
 ### Journal Article Categories: 
 * [Genomics]({{site.baseurl}}/Genomics/)
+* [Multi-omics Integration]({{site.baseurl}}/MultiOmics_Integration/)
 * [Clinical Informatics]({{site.baseurl}}/Clinical_Informatics/)
 * [Pharmacogenomics and Chemoinformatics]({{site.baseurl}}/Pharmacogenomics_and_Chemoinformatics/)
 * [Protein Structure]({{site.baseurl}}/Protein_Structure/)
