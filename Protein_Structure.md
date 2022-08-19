@@ -6,22 +6,12 @@ permalink: /Protein_Structure/
 
 # PROTEIN STRUCTURE
 
-1. Gelly, Jean-Christophe, et al. iPBA: a tool for protein structure comparison using sequence alignment strategies. Nucleic Acids Research 39.suppl_2 (2011): W18-W23.
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3125758/](www.ncbi.nlm.nih.gov/pmc/articles/PMC3125758/)
-
-   >We propose an efficient method for structure comparison, based on a structural alphabet. Protein Blocks (PBs) is a widely used structural alphabet with 16 pentapeptide conformations that can fairly approximate a complete protein chain. Thus a 3D structure can be translated into a 1D sequence of PBs. With a simple Needleman–Wunsch approach and a raw PB substitution matrix, PB-based structural alignments were better than many popular methods. iPBA web server presents an improved alignment approach using (i) specialized PB Substitution Matrices (SM) and (ii) anchor-based alignment methodology. With these developments, the quality of ∼88% of alignments was improved.
-
 1. Remmert, Michael, et al. HHblits: lightning-fast iterative protein sequence searching by HMM-HMM alignment. Nature Methods 9.2 (2012): 173.
 [http://toolkit.genzentrum.lmu.de/hhblits/](http://toolkit.genzentrum.lmu.de/hhblits/)
 [https://www.nature.com/articles/nmeth.1818](https://www.nature.com/articles/nmeth.1818)
  
    >Sequence-based protein function and structure prediction depends crucially on sequence-search sensitivity and accuracy of the resulting sequence alignments. We present an open-source, general-purpose tool that represents both query and database sequences by profile hidden Markov models (HMMs): 'HMM-HMM–based lightning-fast iterative sequence search' (HHblits). Compared to the sequence-search tool PSI-BLAST, HHblits is faster owing to its discretized-profile prefilter, has 50–100% higher sensitivity and generates more accurate alignments. 
- 
-1. Jones, David T., et al. PSICOV: precise structural contact prediction using sparse inverse covariance estimation on large multiple sequence alignments. Bioinformatics 28.2 (2011): 184-190.
-[https://academic.oup.com/bioinformatics/article/28/2/184/198108](https://academic.oup.com/bioinformatics/article/28/2/184/198108)
 
-   >Sequence-based contact predictions are usually made by identifying correlated mutations within multiple sequence alignments (MSAs), most commonly through the information-theoretic approach of calculating mutual information between pairs of sites in proteins. These predictions are often inaccurate because the true covariation signal in the MSA is often masked by biases from many ancillary indirect-coupling or phylogenetic effects. Here we present a novel method, PSICOV, which introduces the use of sparse inverse covariance estimation to the problem of protein contact prediction. Our method builds on work which had previously demonstrated corrections for phylogenetic and entropic correlation noise and allows accurate discrimination of direct from indirectly coupled mutation correlations in the MSA. PSICOV displays a mean precision substantially better than the best performing normalized mutual information approach and Bayesian networks. For 118 out of 150 targets, the L/5 (i.e. top-L/5 predictions for a protein of length L) precision for long-range contacts (sequence separation >23) was ≥0.5, which represents an improvement sufficient to be of significant benefit in protein structure prediction or model quality assessment.
- 
 1. Adhikari, Badri, Jie Hou, and Jianlin Cheng. DNCON2: improved protein contact prediction using two-level deep convolutional neural networks. Bioinformatics 34.9 (2017): 1466-1472.
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925776/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5925776/)
 
