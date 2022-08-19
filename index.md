@@ -3,7 +3,7 @@ layout: page
 ---
 
 # Bioinformatics Journal Club List of Approved Papers (LAP)
-# BIOINF 602/603, Fall 2021
+# BIOINF 602/603, Fall 2022
 
 ### Journal Article Categories: 
 * [Genomics]({{site.baseurl}}/Genomics/)
