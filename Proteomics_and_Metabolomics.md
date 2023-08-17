@@ -6,14 +6,7 @@ permalink: /Proteomics_and_Metabolomics/
 
 # PROTEOMICS AND METABOLOMICS
 
-1. Kadoch C, Hargreaves DC, Hodges C, Elias L, Ho L, Ranish J, Crabtree GR.
-Proteomic and bioinformatic analysis of mammalian SWI/SNF complexes identifies
-extensive roles in human malignancy. Nat Genet. 2013 Jun;45(6):592-601.
-[https://www.ncbi.nlm.nih.gov/pubmed/23644491](https://www.ncbi.nlm.nih.gov/pubmed/23644491)
-
-      >Subunits of mammalian SWI/SNF (mSWI/SNF or BAF) complexes have recently been implicated as tumor suppressors in human malignancies. To understand the full extent of their involvement, we conducted a proteomic analysis of endogenous mSWI/SNF complexes, which identified several new dedicated, stable subunits not found in yeast SWI/SNF complexes, including BCL7A, BCL7B and BCL7C, BCL11A and BCL11B, BRD9 and SS18. Incorporating these new members, we determined mSWI/SNF subunit mutation frequency in exome and whole-genome sequencing studies of primary human tumors. Notably, mSWI/SNF subunits are mutated in 19.6% of all human tumors reported in 44 studies. Our analysis suggests that specific subunits protect against cancer in specific tissues. In addition, mutations affecting more than one subunit, defined here as compound heterozygosity, are prevalent in certain cancers. Our studies demonstrate that mSWI/SNF is the most frequently mutated chromatin-regulatory complex (CRC) in human cancer, exhibiting a broad mutation pattern, similar to that of TP53. Thus, proper functioning of polymorphic BAF complexes may constitute a major mechanism of tumor suppression.
-
-1. Sauer, U., ‘Real-time metabolome profiling of the metabolic switch between starvation and growth,’ Nature Methods (2015) doi:10.1038/ nmeth.3584. https://www.ncbi.nlm.nih.gov/pubmed/26366986.
+1. Sauer, U. Real-time metabolome profiling of the metabolic switch between starvation and growth. Nature Methods (2015) doi:10.1038/ nmeth.3584. https://www.ncbi.nlm.nih.gov/pubmed/26366986.
 
       >Metabolic systems are often the first networks to respond to environmental changes, and the ability to monitor metabolite dynamics is key for understanding these cellular responses. Because monitoring metabolome changes is experimentally tedious and demanding, dynamic data on time scales from seconds to hours are scarce. Here we describe real-time metabolome profiling by direct injection of living bacteria, yeast or mammalian cells into a high-resolution mass spectrometer, which enables automated monitoring of about 300 compounds in 15-30-s cycles over several hours. We observed accumulation of energetically costly biomass metabolites in Escherichia coli in carbon starvation-induced stationary phase, as well as the rapid use of these metabolites upon growth resumption. By combining real-time metabolome profiling with modeling and inhibitor experiments, we obtained evidence for switch-like feedback inhibition in amino acid biosynthesis and for control of substrate availability through the preferential use of the metabolically cheaper one-step salvaging pathway over costly ten-step de novo purine biosynthesis during growth resumption.
 
