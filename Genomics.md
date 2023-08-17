@@ -6,10 +6,6 @@ permalink: /Genomics/
 
 # Genomics
 
-1. Discovery and saturation analysis of cancer genes across 21 tumour types. Lawrence MS, Stojanov P, Mermel CH, Robinson JT, Garraway LA, Golub TR, Meyerson M, Gabriel SB,Lander ES, Getz G. Nature. 2014 Jan 23; 505(7484):495-501. https://www.ncbi.nlm.nih.gov/pubmed/24390350.
-
-      >Although a few cancer genes are mutated in a high proportion of tumours of a given type (>20%), most are mutated at intermediate frequencies (2-20%). To explore the feasibility of creating a comprehensive catalogue of cancer genes, we analysed somatic point mutations in exome sequences from 4,742 human cancers and their matched normal-tissue samples across 21 cancer types. We found that large-scale genomic analysis can identify nearly all known cancer genes in these tumour types, and down-sampling analysis indicates that larger sample sizes will reveal many more genes mutated at clinically important frequencies. We estimate that near-saturation may be achieved with 600-5,000 samples per tumour type, depending on background mutation frequency. The results may help to guide the next stage of cancer genomics.
-
 1. **BIDS** - Zhou J, Troyanskaya O.  2015. Predicting effects of noncoding variants with deep learning-based sequence model. Nat Methods. 2015 Oct;12(10):931-4. doi: 10.1038/nmeth.3547. Epub 2015 Aug 24. https://www.ncbi.nlm.nih.gov/pubmed/26301843.
 
       >Identifying functional effects of noncoding variants is a major challenge in human genetics. To predict the noncoding-variant effects de novo from sequence, we developed a deep learning-based algorithmic framework, DeepSEA (http://deepsea.princeton.edu/), that directly learns a regulatory sequence code from large-scale chromatin-profiling data, enabling prediction of chromatin effects of sequence alterations with single-nucleotide sensitivity. We further used this capability to improve prioritization of functional variants including expression quantitative trait loci (eQTLs) and disease-associated variants.
